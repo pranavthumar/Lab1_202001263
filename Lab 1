@@ -1,0 +1,36 @@
+Que 1:-
+
+FRs (Functional Requirements):
+
+  1.Borrowing/returning books by members
+  2.Extending borrowing date by members
+  3.Entering new records by the librarian
+  4.Removing records by the librarian
+  5.Online browsing/searching by non-members
+  6.Limited access to issuing/returning books to members only
+  7.Web application using HTML 5
+  8.Running within institute LAN
+  9.Confidential information (e.g. passwords) protection.
+
+NFRs (Non-Functional Requirements):
+
+  1.Easy handling of day-to-day book transactions for library staff
+  2.Administrative privileges for the librarian
+  3.Security for confidential information stored in the system.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Que 2:-
+
+Scope:
+The scope of the problem is to create a mobile application to assist individuals with disabling hearing loss.
+
+Features:
+  1.Recognition of key sound events (e.g. car horns, babies)
+  2.Immediate alerts for critical events
+  3.Continual logging of sound events
+  4.Optimized for Android with low-latency for real-time use.
+ 
+Non-functional aspects:
+  1.Artificial intelligence for sound event recognition
+  2.User-centered design for the needs of individuals with hearing loss.
